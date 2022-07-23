@@ -3,24 +3,48 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+Ph.D. Candidate
+Autonomous Computing System Laboratory (ACSL)
+School of Elecrical Engineering and Computer Science (EECS)
+Gwangju Institute of Science and Technology (GIST)  
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Education
+* Gwangju Institute of Science and Technology (GIST), Gwangju, South Korea
+  * Ph.D. Candidate in Electrical Engineering and Computer Science (EECS)
+  * March 2019 ~ Present
+  * Advisor: Ue-Hwan Kim
+* Gwangju Institute of Science and Technology (GIST), Gwangju, South Korea
+  * M.S. in Electrical Engineering and Computer Science (EECS)
+  * March 2017 ~ February 2019
+  * Advisor: Hyuk Lim
+* Chungnam National University, Daejeon, South Korea
+  * B.S. in Radiowave Engineering
+  * March 2012 ~ February 2017
 
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Research Interests
+* Robot Vision
+* 3D Scene Graph
+
+<br/>
+
+# Publications
+* 서기원, 배재원, 류선열, 김종원, 임혁, "트래픽 서비스 품질을 보장하기 위한 보안 자원 처리율 기반 매핑 알고리즘," 한국통신학회 논문지, 제46권, 제10호, 2021.10.15.
+* Jargalsaikhan Narantuya, Taejin Ha, Jaewon Bae, and Hyuk Lim, "Dependency analysis based approach for virtual machine placement in software-defined data center," Applied Sciences, special issue on "Computational Intelligence, Soft Computing and Communication Networks for Applied Science",vol. 9, no. 16, article no. 3223, August 2019.
+* Jaewon Bae and Hyuk Lim, "Random Mining Group Selection for Preventing 51% Attacks in Bitcoin," IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2018) - Fast Abstract, Luxembourg, June 25-28, 2018.
+* Jargalsaikhan Narantuya, 윤승현, 배재원, 김혜진, 임혁, "SDN/NFV를 활용한 사이버공격 방어용 가상 허니넷 구축," 한국통신학회 동계종합학술발표회, 하이원리조트, 2018.1.17-19.
+
+<br/>
+
+# Patents
+* 배재원, 임혁, "암호 화폐 시스템", 대한민국, 출원번호 10-2018-0072326, 2018.06.22. / 등록번호 10-2018-0072326, 2019.12.24
+
+<br/>
+
+# Contact
+Email: jaewonbae@gm.gist.ac.kr
+Phone: +82-62-715-6385
+Office: C11-402
