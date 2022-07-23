@@ -1,14 +1,14 @@
 # Site settings
-title: A.P
-baseurl: "/ap"
-url: "https://kssim.github.io"
+title: Jaewon Bae
+baseurl: "/jaewonbae"
+url: "https://jaewonbae.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  name: Jaewon Bae
+  desc: I'm a Ph.D. candidate at Gwangju Institute of Science and Technology (GIST) under the supervision of Prof. Uehwan Kim. My research interests are “Robot vision”.
+  email: jaewonbae@gm.gist.ac.kr
   selfie: assets/img/profile.jpg
 
 # social
