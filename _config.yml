@@ -1,7 +1,7 @@
 # Site settings
 title: Jaewon Bae
-baseurl: "/jaewonbae"
-url: "https://jaewonbae.github.io"
+baseurl: ""
+url: "https://jaewonbae.github.io/"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
