@@ -3,9 +3,9 @@ layout: about
 ---
 
 # About Me
-Ph.D. Candidate
-Autonomous Computing System Laboratory (ACSL)
-School of Elecrical Engineering and Computer Science (EECS)
+Ph.D. Candidate 
+Autonomous Computing System Laboratory (ACSL) 
+School of Elecrical Engineering and Computer Science (EECS) 
 Gwangju Institute of Science and Technology (GIST)  
 
 <br/>
@@ -26,6 +26,7 @@ Gwangju Institute of Science and Technology (GIST)
 <br/>
 
 # Research Interests
+* Autonomous Computing
 * Robot Vision
 * 3D Scene Graph
 
@@ -45,6 +46,6 @@ Gwangju Institute of Science and Technology (GIST)
 <br/>
 
 # Contact
-Email: jaewonbae@gm.gist.ac.kr
-Phone: +82-62-715-6385
-Office: C11-402
+Email: jaewonbae@gm.gist.ac.kr  
+Phone: +82-62-715-6385  
+Office: C11-402 
