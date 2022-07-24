@@ -4,8 +4,8 @@ layout: about
 
 # About Me
 Ph.D. Candidate  
-Autonomous Computing System Laboratory (ACSL)   
-School of Elecrical Engineering and Computer Science (EECS)   
+Autonomous Computing Systems Laboratory (ACSL)   
+School of Electrical Engineering and Computer Science (EECS)   
 Gwangju Institute of Science and Technology (GIST)   
 
 <br/>
