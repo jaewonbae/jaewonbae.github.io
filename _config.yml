@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Jaewon Bae
-  desc: I'm a Ph.D. candidate at Gwangju Institute of Science and Technology (GIST) under the supervision of Prof. Uehwan Kim. My research interests are “Robot vision”.
+  desc: I'm a Ph.D. candidate at Gwangju Institute of Science and Technology (GIST) under the supervision of Prof. Ue-hwan Kim. My research interests are Computer vision & Robotics.
   email: jaewonbae@gm.gist.ac.kr
   selfie: assets/img/profile.jpg
 
@@ -17,13 +17,14 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: 
   flickr:
-  github: kssim
+  github: jaewonbae 
+  google_scholar: https://scholar.google.co.kr/citations?user=BsB-RiUAAAAJ&hl=ko&oi=ao 
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: https://www.linkedin.com/in/jaewon-bae/ 
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +32,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter: 
   vimeo:
   wordpress:
   youtube:
