@@ -26,8 +26,8 @@ Gwangju Institute of Science and Technology (GIST)
 <br/>
 
 # Research Interests
-* Autonomous Computing
-* Robot Vision
+* Computer Vision
+* Robotics
 * 3D Scene Graph
 
 <br/>
@@ -46,6 +46,6 @@ Gwangju Institute of Science and Technology (GIST)
 <br/>
 
 # Contact
-Email: jaewonbae@gm.gist.ac.kr  
+Email: jaewonbae (at) gm.gist.ac.kr  
 Phone: +82-62-715-6385  
 Office: C11-402 

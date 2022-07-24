@@ -75,6 +75,17 @@
 </li>
 {% endif %}
 
+{% if site.social.google_scholar %}
+<li>
+  <a href="https://scholar.google.com/{{ site.social.google_scholar }}" title="{{ site.social.default_txt }} Google Scholar">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fab fa-google-scholar fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+</li>
+{% endif %}
+
 {% if site.social.google_plus %}
 <li>
   <a href="https://plus.google.com/{{ site.social.google_plus }}" title="{{ site.social.default_txt }} Google+">
