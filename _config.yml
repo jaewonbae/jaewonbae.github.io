@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Jaewon Bae
-  desc: I'm a Ph.D. candidate at Gwangju Institute of Science and Technology (GIST) under the supervision of Prof. [Ue-hwan Kim](https://uehwan.github.io/people/Ue-Hwan-Kim). My research interests are Computer vision & Robotics.
+  desc: I'm a Ph.D. candidate at Gwangju Institute of Science and Technology (GIST) under the supervision of Prof. <a href="https://uehwan.github.io/people/Ue-Hwan-Kim">Ue-hwan Kim</a>. My research interests are Computer vision & Robotics.
   email: jaewonbae@gm.gist.ac.kr
   selfie: assets/img/profile.jpg
 
